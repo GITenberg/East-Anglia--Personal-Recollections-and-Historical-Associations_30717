@@ -1,0 +1,27 @@
+_repo: East-Anglia--Personal-Recollections-and-Historical-Associations_30717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, J. Ewing (James Ewing)
+    alias: Ritchie, James Ewing
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '34770'
+    url: http://www.gutenberg.org/2009/agents/34770
+description: ''
+gutenberg_issued: '2009-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'East Anglia (England)'
+title: 'East Anglia: Personal Recollections and Historical Associations'
+url: http://www.gutenberg.org/ebooks/30717
